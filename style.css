@@ -1,0 +1,839 @@
+*{
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+.navbar{
+    height: 70px;
+    background-color: rgba(240, 240, 49, 0.982);
+    display: flex;
+    align-items: center;
+}
+.nav-logo{
+    height: 50px;
+    width: 140px;
+    padding-top: 1px;
+}
+.logo{
+    background-image: url("noon\ image\ 22.jpg");
+    background-size: cover;
+    height: 50px;
+    width: 100%;
+}
+.add-first{
+    font-size: 0.85rem;
+    margin-left: 27px;
+}
+.add-sec{
+    font-size: 1rem;
+    margin-left: 7px;
+}
+.add-img{
+    display: flex;
+    
+}
+.nav-address{
+    margin-left: 10px;
+}
+.nav-search input{
+  height: 40px;
+  width: 700px;
+  border-radius: 5px;
+  margin-left: 10px;
+  border: none;
+}
+.button-a{
+    margin-left: 20px;
+   
+}
+.button-login{
+    margin-left: 20px;
+}
+.add-icon{
+    margin-left: 30px;
+}
+.add-icons{
+    margin-left: 40px;
+}
+
+/* ul */
+
+.text-ul ul b{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    list-style: none;
+    
+}
+.slider{
+    display: flex;
+}
+.slider-1{
+    display: flex;
+}
+.goal-img{
+    display: flex;
+    justify-content: space-evenly;
+}
+.img-1 {
+    height: 80px;
+    width: 80px;
+    border-radius: 50px; 
+    background-image: url("noon3.jpg");
+    background-size: cover;
+}
+.img-1 p{
+    position: relative;
+    top: 80px;
+    left: 10px;
+}
+.img-2 {
+    height: 80px;
+    width: 80px;
+    border-radius: 50px; 
+    background-image: url("noon2.jpg");
+    background-size: cover;
+}
+.img-2 p{
+    position: relative;
+    top: 80px;
+    left: 15px;
+}
+.img-3 {
+    height: 80px;
+    width: 80px;
+    border-radius: 50px; 
+    background-image: url("noon4.jpg");
+    background-size: cover;
+}
+.img-3 p{
+    position: relative;
+    top: 80px;
+    left: 30px;
+}
+.img-4 {
+    height: 80px;
+    width: 80px;
+    border-radius: 50px; 
+    background-image: url("noon5.jpg");
+    background-size: cover;
+}
+.img-4 p{
+    position: relative;
+    top: 80px;
+    left: 10px;
+}
+.img-5 {
+    height: 80px;
+    width: 80px;
+    border-radius: 50px; 
+    background-image: url("noon6.jpg");
+    background-size: cover;
+}
+.img-5 p{
+    position: relative;
+    top: 80px;
+    left: 15px;
+}
+.img-6 {
+    height: 80px;
+    width: 80px;
+    border-radius: 50px; 
+    background-image: url("noon7.jpg");
+    background-size: cover;
+}
+.img-6 p{
+    position: relative;
+    top: 80px;
+    left: 20px;
+}
+.img-7 {
+    height: 80px;
+    width: 80px;
+    border-radius: 50px; 
+    background-image: url("noon8.jpg");
+    background-size: cover;
+}
+.img-7 p{
+    position: relative;
+    top: 80px;
+    left: 20px;
+}
+.img-8 {
+    height: 80px;
+    width: 80px;
+    border-radius: 50px; 
+    background-image: url("noon\ 14.jpg");
+    background-size: cover;
+}
+.img-8 p{
+    position: relative;
+    top: 80px;
+    left: 5px;
+}
+.img-9 {
+    height: 80px;
+    width: 80px;
+    border-radius: 50px; 
+    background-image: url("noon9.jpg");
+    background-size: cover;
+}
+.img-9 p{
+    position: relative;
+    top: 80px;
+    left: 15px;
+}
+.img-10 {
+    height: 80px;
+    width: 80px;
+    border-radius: 50px; 
+    background-image: url("noon10.jpg");
+    background-size: cover;
+}
+.img-10 p{
+    position: relative;
+    top: 80px;
+    left: 23px;
+}
+.img-11 {
+    height: 80px;
+    width: 80px;
+    border-radius: 50px; 
+    background-image: url("noon11.jpg");
+    background-size: cover;
+}
+.img-11 p{
+    position: relative;
+    top: 80px;
+    left: 10px;
+}
+.img-12 {
+    height: 80px;
+    width: 80px;
+    border-radius: 50px; 
+    background-image: url("noon12.jpg");
+    background-size: cover;
+}
+.img-12 p{
+    position: relative;
+    top: 80px;
+    left: 17px;
+}
+/* images-3 */
+
+.images-3{
+    background-color: rgb(243, 242, 242);
+    width: 100%;
+    height: 520px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.image-4{
+  background-color: white;
+  width: 30%;
+  height: 500px;
+ position: relative;
+ top: 10px;
+ 
+}
+.image-4 h1{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.imge-2{
+    display: flex;
+}
+.imge-11{
+    background-image: url("noon\ 15.jpg");
+    background-size: cover;
+    height: 190px;
+    width: 160px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.imge-12{
+    background-image: url("noon\ 14.jpg");
+    background-size: cover;
+    height: 190px;
+    width: 160px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.imge-3{
+    display: flex;
+}
+.imge-13{
+    background-image: url("noon12.jpg");
+    background-size: cover;
+    height: 190px;
+    width: 160px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.imge-13 p{
+    position: relative;
+    top: 200px;
+}
+.imge-14{
+    background-image: url("noon\ 13.jpg");
+    background-size: cover;
+    height: 190px;
+    width: 160px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.imge-14 p{
+    position: relative;
+    top: 200px;
+}
+.image-5{
+    background-color: white;
+    width: 30%;
+    height: 500px;
+   position: relative;
+   top: 10px;
+   
+  }
+  .imgs-4{
+   display: flex;
+  }
+  .imgs-4 h3{
+    margin-left: 20px;
+    margin-top: 10px;
+  }
+  .imgs-4 p{
+    height: 30px;
+    width: 110px;
+    background-color: rgba(0, 0, 0, 0.79);
+    color: white;
+    margin-left: 5px;
+    border-radius: 0 0 5px 5px ;
+    padding-top: 7px;
+    padding-left: 8px;
+  }
+  .imgs-4 b{
+    height: 30px;
+    width: 110px;
+    background-color: rgba(0, 0, 0, 0.79);
+    color: white;
+    margin-left: 5px;
+    margin-top: 10px;
+    border-radius: 5px ;
+    padding-top: 7px;
+    padding-left: 10px;
+  }
+  .image-6{
+    background-color: white;
+    width: 30%;
+    height: 500px;
+   position: relative;
+   top: 10px;
+   
+  }
+.imgs-2{
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.imgss-1 img{
+   margin-left:10px ;
+   margin-top: 5px;
+}
+.imgss-2 img{
+    margin-left:10px ;
+ }
+
+ /* center-img */
+
+ .center-img{
+    background-color:rgb(219, 219, 219) ;
+     height: 200px;
+     width: 100%;
+ }
+
+.center-img-1 img{
+    margin: 10px;
+    border-radius: 5px;
+}
+h2{
+    position: relative;
+    top: 25px;
+    left: 20px;
+}
+.main-img{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+/* main- porsiion */
+
+.main-porsiion{
+    background-color:rgb(244, 244, 244) ;
+    height: 470px;
+    width: 100%;
+}
+.main-porsiion .prossion h2{
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+.product-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-evenly;
+
+  }
+  
+  .product-card {
+    width: 220px;
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    position: relative;
+    text-align: center;
+  }
+  
+  .product-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  .label {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: #3742fa;
+    color: white;
+    font-size: 12px;
+    padding: 2px 6px;
+    border-radius: 4px;
+  }
+  
+  .rating {
+    color: #28a745;
+    margin: 8px 0;
+    font-size: 14px;
+  }
+  
+  .price {
+    margin-bottom: 10px;
+  }
+  
+  .price .new {
+    font-weight: bold;
+    font-size: 18px;
+    color: #000;
+  }
+  
+  .price .old {
+    text-decoration: line-through;
+    font-size: 14px;
+    color: #888;
+    margin-left: 5px;
+  }
+  
+  .price .discount {
+    color: #e74c3c;
+    font-size: 14px;
+    margin-left: 5px;
+  }
+  
+  button {
+    background-color: #ffdd00;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+
+  /* next-section */
+
+  .flash-sales {
+    padding: 20px;
+    background-color: rgb(224, 224, 81);
+  }
+  
+  .flash-sales h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .sales-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+  }
+  
+  .card {
+    background: #fff;
+    border-radius: 12px;
+    overflow: hidden;
+    border: 1px solid #ddd;
+    position: relative;
+   
+  }
+  
+  .card-header {
+    background: #f44336;
+    color: #fff;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+    font-size: 16px;
+  }
+  
+  .card-body {
+    padding: 10px;
+    position: relative;
+  }
+  
+  .card-body h3 {
+    font-size: 16px;
+    margin: 0 0 10px;
+  }
+  
+  .price {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .price .old {
+    text-decoration: line-through;
+    color: #888;
+    margin-right: 10px;
+  }
+  
+  .price .new {
+    color: #e60000;
+    font-weight: bold;
+  }
+  
+  .card-body img {
+    max-width: 100%;
+    height: 200px;
+    object-fit: contain;
+    display: block;
+    margin: 10px auto;
+  }
+  
+  .cart-btn {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    background: #eee;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    padding: 6px 10px;
+    border-radius: 50%;
+  }
+  
+  .sold-out .card-body {
+    background: #ddd;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .sold-circle {
+    background: yellow;
+    color: red;
+    font-weight: bold;
+    border-radius: 50%;
+    padding: 20px;
+    font-size: 18px;
+  }
+  
+  /* Optional different color tags */
+  .home { background: #f44336; }
+  .health { background: #d32f2f; }
+  .toys { background: #ff9800; }
+  .stationery { background: #e91e63; }
+  .beauty { background: #c2185b; }
+
+  .btn-text{
+    display: flex;
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+  .btn-sn{
+    position: absolute;
+    right: 30px;
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+  }
+
+  /* same section again */
+
+
+  .section-new{
+    display: flex;
+    justify-content: center;
+  }
+  .product-card1 {
+    width: 220px;
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    position: relative;
+    text-align: center;
+    
+  }
+  
+  .product-card1 img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  .label1 {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: #40414e;
+    color: white;
+    font-size: 12px;
+    padding: 2px 6px;
+    border-radius: 4px;
+  }
+  
+  .rating1 {
+    color: #28a745;
+    margin: 8px 0;
+    font-size: 14px;
+    margin-left: -10px;
+  }
+  
+  .price1 {
+    margin-bottom: 10px;
+  }
+  
+  .price1 .new {
+    font-weight: bold;
+    font-size: 18px;
+    color: #000;
+  }
+  
+  .price1 .old {
+    text-decoration: line-through;
+    font-size: 14px;
+    color: #888;
+    margin-left: 5px;
+  }
+  
+  .price1 .discount {
+    color: rgb(9, 156, 9);
+    font-size: 14px;
+    margin-left: 5px;
+  }
+  
+  .button {
+    background-color: #ffdd00;
+    cursor: pointer;
+    border: none;
+    display: flex;
+    font-size: smaller;
+
+    
+  }
+  .express-btn{
+    background-color: blue;
+    width: 170px;
+    height: 35px;
+  }
+  .express-btn H4{
+    color: yellow;
+  }
+  .express-button {
+    height: 23px;
+    position: relative;
+    top: 20px;
+    left: -55px;
+    border-radius: 50% 0 20% 50%;
+    padding: 2px 10px; 
+    margin-left: 60px;
+  }
+
+  .btn-text1{
+    display: flex;
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+  .btn-sns{
+    position: absolute;
+    right: 30px;
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+  }
+  .fashion-w{
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .fashion-w img{
+    width: 170px;
+    margin-top: 25px;
+  }
+  .foter-section a{
+     text-decoration: none;
+     color: blue;
+  }
+  .footer-section1{
+    background-color: rgb(244, 243, 243);
+    height: 110px;
+    width: 100%;
+    display: flex;
+    padding-top: 30px;
+    padding-left: 20px;
+  }
+  .footer-section-3{
+    position: relative;
+    left: 300px;
+   
+   }
+  .footer-section-4{
+   position: relative;
+   left: 400px;
+   
+  }
+  .text-bnn{
+    position: relative;
+    bottom: 20px;
+    left: 5px;
+  }
+  /* last footer section */
+
+  .footer-container{
+    display: flex;
+  }
+  .footer-columns{
+    display: flex;
+  }
+  .last-type{
+    position: relative;
+    right: 280px;
+  }
+  .shop-on-go {
+    text-align: center;
+    margin: 30px 0;
+    padding: 20px 0;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+}
+
+.shop-on-go h3 {
+    font-size: 16px;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+}
+
+.app-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.app-button {
+    padding: 8px 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 14px;
+    background-color: #000;
+    color: white;
+    
+}
+.sec-last-part{
+  position: absolute;
+  right: -50px;
+  bottom: 40px;
+  
+  
+}
+.boxes{
+  display: flex;
+  
+  
+}
+.box-1{
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: yellow;
+  text-align: center;
+  padding-top: 15px;
+}
+.box-2{
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: yellow;
+  text-align: center;
+  padding-top: 15px;
+}
+.box-3{
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: yellow;
+  text-align: center;
+  padding-top: 15px;
+}
+.box-4{
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: yellow;
+  text-align: center;
+  padding-top: 15px;
+  
+}
+.end-footer{
+  background-color: rgb(237, 235, 235);
+  width: 100%;
+  height: 150px;
+}
+.boxes-1{
+  display: flex;
+  position: absolute;
+  right: 20px;
+}
+.box-5 img{
+  height: 25px;
+  width: 70px;
+}
+.box-6 img{
+  height: 25px;
+  width: 70px;
+}
+
+.box-7 img{
+  height: 25px;
+  width: 70px;
+}
+.box-8 img{
+  height: 25px;
+  width: 70px;
+}
+
+
+.footer-links {
+  display: flex;
+  padding-left: 30px;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+.footer-link {
+  font-size: 12px;
+  color: #666;
+}
+  
